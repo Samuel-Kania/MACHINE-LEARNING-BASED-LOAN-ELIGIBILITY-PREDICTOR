@@ -1,1 +1,1 @@
-A decision tree based loan eligibility predictor implemented on google colab.
+A machine learning based loan eligibility predictor implemented using decison tree algorithm.

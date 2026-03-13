@@ -20,6 +20,7 @@ The goal is to demonstrate how a Decision Tree Classifier can be used to analyze
 
 
 - Dataset
+ dataset link: https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset
 
 The model uses a loan applicant dataset (`train.csv`) which contains information about applicants such as:
 
